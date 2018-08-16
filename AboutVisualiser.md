@@ -1,6 +1,7 @@
 # Visualiser with unity
 bla bla
 ## Overall file structure
+```bash
 +---.vs
 |   \---PlanningVisualise
 |       +---DesignTimeBuild
@@ -73,3 +74,4 @@ bla bla
 +---ProjectSettings
 \---Temp
     \---ProcessJobs
+```
