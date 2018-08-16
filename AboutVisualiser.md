@@ -30,3 +30,6 @@ Glance at file structure represents that all the components are seperated and mo
 
 ## Build instructions 
 - [ ] Make sure the unity is above Version 2018.2.1f1
+- [ ] Make sure all scenes that are being used in visualisation are added to build settings
+- [ ] The visualization solution object information is recived from server. A consistent network connection is necessary for making sure everything works
+- [ ] Images are recommended to be in PNG format and should be converted to sprites before implementing them in application.
