@@ -4,21 +4,21 @@ bla bla
 ```bash
 
 
-|   +---Visualiser
-|   |   +---Animations
-|   |   +---Fonts
-|   |   +---Images
-|   |   +---Resources
-|   |   +---Scenes
-|   |   +---Scripts
-|   |   |   +---FileUpload
-|   |   |   \---Visualisation
-|   |   |       +---AnimationControl
-|   |   |       +---TransferPack
-|   |   |       |   \---TransferItemPack
-|   |   |       \---VisualisationModels
-|   |   \---Sprites
-|   \---WebGLTemplates
-|       \---NewTemplate
++---Visualiser
+|   +---Animations
+|   +---Fonts
+|   +---Images
+|   +---Resources
+|   +---Scenes
+|   +---Scripts
+|   |   +---FileUpload
+|   |   \---Visualisation
+|   |       +---AnimationControl
+|   |       +---TransferPack
+|   |       |   \---TransferItemPack
+|   |       \---VisualisationModels
+|   \---Sprites
+\---WebGLTemplates
+    \---NewTemplate
 
 ```
