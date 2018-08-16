@@ -29,4 +29,4 @@ This is overall file structure of the Visualiser
 Glance at file structure represents that all the components are seperated and modular. As the visualiser is rendering the files from different UI elements and generating objects automatically there will always be dependencies involved in it. Before adding new visual components or adding new functionalities understanding of dependencies is required.
 
 ## Build instructions 
-- [ ]Make sure the unity is above Version 2018.2.1f1
+- [ ] Make sure the unity is above Version 2018.2.1f1
